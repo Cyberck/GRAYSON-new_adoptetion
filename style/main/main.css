@@ -1,0 +1,25 @@
+:root {
+  --PDR: "PlayfairDisplay-Regular";
+  --RR: "Roboto Regular";
+  --light_black: #666666;
+  --black: #000000;
+  --search_black: #4B4848;
+  --white: #ffffff;
+  --greenLight: #41A28E;
+  --bacg-color: rgba(75, 72, 72, 0.70);
+  --white-bg: rgb(255, 255, 255, 100);
+}
+
+main {
+  margin-top: 48px;
+}
+
+
+
+
+
+
+
+
+
+
